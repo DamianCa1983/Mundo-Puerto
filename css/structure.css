@@ -1318,8 +1318,8 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 
 /* Logo */
 #Top_bar .logo {
-    float: left;
-    margin: 0 30px 0 20px;
+    float: right;
+    margin: 0 0px 0 0px;
 }
 
 #Top_bar .logo h1 {

@@ -5,9 +5,7 @@
 #Top_bar .top_bar_right_wrapper {
 	position: relative;
 }
-body:not(.template-slider) #Header_wrapper {
-	background-image: url(../../../images/mp_img/slider_about.jpg)
-}
+	
 @media only screen and (min-width: 1240px) {
 	body:not(.header-simple) #Top_bar #menu {
 		display: block !important
@@ -2082,7 +2080,7 @@ h6 {
 	}
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 60px;
+	height: 59px;
 	line-height: 60px;
 	padding: 30px 0;
 }
